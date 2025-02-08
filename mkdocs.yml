@@ -291,15 +291,15 @@ plugins:
   - glightbox:
       background: none
       auto_themed: true
-  - git-revision-date-localized:
-      enable_creation_date: true
-      type: timeago
-  - git-committers:
-      repository: CodeCrafter-TL/Webintosh
-      branch: main
-      token: !ENV GH_TOKEN # 需要自行在终端中设置临时环境变量，强烈不建议显式地在此处设置 token
-      exclude_committers:
-        - web-flow
+  # - git-revision-date-localized:
+  #     enable_creation_date: true
+  #     type: timeago
+  # - git-committers:
+  #     repository: CodeCrafter-TL/Webintosh
+  #     branch: main
+  #     token: !ENV GH_TOKEN # 需要自行在终端中设置临时环境变量，强烈不建议显式地在此处设置 token
+  #     exclude_committers:
+  #       - web-flow
   - minify:
       minify_html: true
       htmlmin_opts:
@@ -312,9 +312,12 @@ nav:
       - 项目主页: index.md
       - 开源许可: LICENSE.md
       - 更新日志: CHANGELOG.md
-      - 贡献指南: CONTRIBUTING.md
       - 赞助我们: Sponsor.md
       - 更多交流: Contact.md
 
   - 文档:
       - docs/index.md
+      - CSS: docs/stylesheet/index.md
+      - JS: docs/javascript/index.md
+      - HTML: docs/html/index.md
+      - 图像: docs/image/index.md
