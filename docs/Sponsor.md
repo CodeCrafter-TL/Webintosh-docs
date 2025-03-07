@@ -11,7 +11,7 @@ icon: octicons/sponsor-tiers-24
 下面是我的赞助方式：
 
 <p align="center">
-<img width="512" alt="weChat" src="../wechat.png"/>
+<img width="512" alt="weChat" src="../wechat.jpg"/>
 </p>
 
 请在赞助时注明一些信息，例如：
@@ -28,6 +28,6 @@ Webintosh [你的昵称或者你的 GitHub 用户名]
 
 此页面并非自动更新，而是由我手动更新的，因此赞助列表可能更新不及时，甚至很久都没有更新！请谅解。
 
-| 🕓 赞助时间 { data-sort-method=min } |             😀 赞助者              | 💰 赞助金额 { data-sort-method=number } | ❤️ 赞助方式 |
-| :---------------------------------: | :-------------------------------: | :------------------------------------: | :--------: |
-|         2025-02-08 21:26:34         |            <https://github.com/CodeCrafter-TL>            |                 ¥0.00                 | 微信赞赏码 |
+| 🕓 赞助时间 { data-sort-method=min } |             😀 赞助者              | 💰 赞助金额 { data-sort-method=number } |
+| :---------------------------------: | :-------------------------------: | :------------------------------------: |
+|         2025-02-08 21:26:34         |            <https://github.com/CodeCrafter-TL>            |                 ¥0.00                 |

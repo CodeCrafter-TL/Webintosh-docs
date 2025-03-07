@@ -60,7 +60,7 @@ hide:
 
     ***
 
-    MIT，最宽松的开源许可之一
+    GPL v3.0 License
 
 * [📋 **赞助列表**](./Sponsor.md)
 

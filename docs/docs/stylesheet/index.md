@@ -161,16 +161,87 @@ icon: material/language-css3
 
 ## `manager.css`
 
-...
+`body`: 定义 body 的样式
+
+`div[manager]`: 定义 div[manager] 的样式
+
+`div[option]`: 定义 div[option] 的样式
+
+`img[icon]`: 定义 img[icon] 的样式
+
+`img[selector]`: 定义 img[selector] 的样式
+
+`p[text]`: 定义 p[text] 的样式
 
 ## `oobe.css`
 
-...
+`*`: 定义 * 的样式
+
+`a[link]`: 定义 a[link] 的样式
+
+`body`: 定义 body 的样式
+
+`div[bottom-content]`: 定义 div[bottom-content] 的样式
+
+`div[container]`: 定义 div[container] 的样式
+
+`div[inner-content]`: 定义 div[inner-content] 的样式
+
+`div[main]`: 定义 div[main] 的样式
+
+`hr`: 定义 hr 的样式
+
+`img`: 定义 img 的样式
+
+`p`: 定义 p 的样式
+
+`p[description]`: 定义 p[description] 的样式
+
+`p[license]`: 定义 p[license] 的样式
+
+`p[subtitle]`: 定义 p[subtitle] 的样式
+
+`p[title]`: 定义 p[title] 的样式
+
+`widget-button`: 定义 widget-button 的样式
 
 ## `recovery.css`
 
-...
+`div[toolschild]`: 定义工具选项的样式
+
+* `img`: 定义图标的样式
+* `p[text]`: 定义描述文字的样式
+* `p[title]`: 定义工具标题的样式
+
+`div[usefultools]`: 定义实用工具容器的样式
 
 ## `window.css`
 
-...
+`*[brightness]`: 定义亮度的样式
+
+`*[opacity]`: 定义半透明的样式
+
+`div[green]`: 定义最大化窗口的样式
+
+`div[left]`: 定义左侧容器的样式
+
+* `p[title]`: 定义左侧容器标题文字的样式
+
+`div[leftchild]`: 定义左侧容器选项的样式
+
+* `img[height]`: 定义窄图的样式
+* `img[largewidth]`: 定义超宽图的样式
+* `img[middle]`: 定义等长宽的样式
+* `img[width]`: 定义宽图的样式
+* `p`: 定义 p 的样式
+* `.selected`: 定义已选择选项的样式
+
+`div[red]`: 定义关闭按钮的样式
+
+`div[right]`: 定义右侧容器的样式
+
+`div[window]`: 定义窗口的样式
+
+`div[wintools]`: 定义窗口左上方功能按钮的样式
+
+`div[yellow]`: 定义最小化按钮的样式

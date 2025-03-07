@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/CodeCrafter-TL/webintosh/pulse"><img alt="Insights" src="https://repobeats.axiom.co/api/embed/8e58e35d5a43799119e46482ce6f7f09b3f76373.svg" /></a>
+<a href="https://github.com/CodeCrafter-TL/webintosh/pulse"><img alt="Insights" src="https://repobeats.axiom.co/api/embed/e840ba982601bced2bae800c035816f2cc8b8ffb.svg" /></a>
 </p>
 
 <p align="center">
